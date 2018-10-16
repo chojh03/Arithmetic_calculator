@@ -1,0 +1,10 @@
+E:\CSharp\Cal\Cal\bin\Debug\Cal.exe.config
+E:\CSharp\Cal\Cal\bin\Debug\Cal.exe
+E:\CSharp\Cal\Cal\bin\Debug\Cal.pdb
+E:\CSharp\Cal\Cal\obj\Debug\Cal.csprojResolveAssemblyReference.cache
+E:\CSharp\Cal\Cal\obj\Debug\Cal.Form1.resources
+E:\CSharp\Cal\Cal\obj\Debug\Cal.Properties.Resources.resources
+E:\CSharp\Cal\Cal\obj\Debug\Cal.csproj.GenerateResource.Cache
+E:\CSharp\Cal\Cal\obj\Debug\Cal.csproj.CoreCompileInputs.cache
+E:\CSharp\Cal\Cal\obj\Debug\Cal.exe
+E:\CSharp\Cal\Cal\obj\Debug\Cal.pdb
